@@ -1,0 +1,11 @@
+@media(max-width: 750px){
+   .sobre_mim{
+      height: 1250px;
+
+      & .box_itens{
+         flex-direction: column;
+         align-items: center;
+         height: 1000px;
+        }
+   }
+}
